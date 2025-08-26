@@ -1,0 +1,1 @@
+# Arquitetura do TFT AI Coach
